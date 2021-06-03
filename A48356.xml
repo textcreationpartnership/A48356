@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The use of the semicircle in taking of heights, depths, and distances, and in surveying of land ...</title>
+            <author>Leybourn, William, 1626-1716.</author>
+         </titleStmt>
+         <extent>Approx. 49KB of XML-encoded text transcribed from 41 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48356</idno><idno type="EEBO-CITATION">12358694</idno>
+  <idno type="VID">60183</idno>
+  <idno type="EEBO-PROQUEST">2240969759</idno>
+  
+            <idno type="STC">Wing L1935</idno>
+            <idno type="STC">ESTC R20977</idno>
+            <idno type="OCLC">12358694</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48356)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60183)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 216:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The use of the semicircle in taking of heights, depths, and distances, and in surveying of land ...</title>
+                  <author>Leybourn, William, 1626-1716.</author>
+               </titleStmt>
+               <extent>[11], 71, [1] folded leaf of plates : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.G. for Walter Hayes ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1680?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The preface is signed: W.L. [i.e. William Leybourn].</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Advertisement: p. [11].</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Surveying --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60183:1"/>
+            <pb facs="tcp:60183:1"/>
+            <p>THE USE OF THE <hi>SEMICIRCLE</hi> In taking Of HEIGHTS, DEPTHS, and DISTANCES: <hi>AND</hi> In SURVEYING OF LAND.</p>
+            <p>AND How it may be made Serviceable for other GOOD and USEFUL PURPOSES.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. G.</hi> for <hi>Walter Hayes</hi> at the <hi>Cross-Daggers</hi> in <hi>Moor-fields,</hi> where you may have all sorts of Mathematical Instruments.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:60183:2"/>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1+ pages missing〉</desc>
+            </gap>
+            <p>viceable also for many other good and useful purposes.</p>
+            <p>In <hi>Astronomy</hi> it is very commodious, and convenient, for <hi>Coelestial Observations,</hi> especially for such as are made of the <hi>Moon</hi> and <hi>Stars,</hi> for by it (by help of the Ball-socket) the <hi>Distances</hi> of the <hi>Fixed Stars</hi> one from another, or of a <hi>Fixed Star</hi> from a <hi>Comet,</hi> the <hi>Moon</hi> or any of the other <hi>Planets</hi> may be ve<g ref="char:EOLhyphen"/>ry conveniently, and accurate<g ref="char:EOLhyphen"/>ly observed, if the Instru<g ref="char:EOLhyphen"/>ment be but any wise conve<g ref="char:EOLhyphen"/>niently handled.</p>
+            <pb facs="tcp:60183:2"/>
+            <p>For the <hi>Describing of Countries,</hi> and for <hi>Large</hi> and <hi>Capacious Grounds,</hi> it is far more convenient than the <hi>Circumferentor,</hi> and much to be prized above the <hi>Geodetical Staff,</hi> or <hi>To<g ref="char:EOLhyphen"/>pographical Glass</hi> of Mr. <hi>Arthur Hopton</hi>'s Inventi<g ref="char:EOLhyphen"/>on.</p>
+            <p>Again, for the designing or laying out of Ground for the <hi>Erection</hi> of <hi>large</hi> and <hi>state<g ref="char:EOLhyphen"/>ly Edifices,</hi> and for design<g ref="char:EOLhyphen"/>ing of Grounds for <hi>Quar<g ref="char:EOLhyphen"/>tering of an Army,</hi> and laying out of ground for a
+<pb facs="tcp:60183:3"/>
+               <hi>Fort</hi> for the defence of a place, this Instrument is infe<g ref="char:EOLhyphen"/>riour to none.</p>
+            <p>I might instance in other Particulars, as in <hi>Gunnery, Dialling, &amp;c.</hi> but at pre<g ref="char:EOLhyphen"/>sent let this suffice. The chief Ʋses, to which I have in this following Treatise ap<g ref="char:EOLhyphen"/>plyed it, I have reduced to these following heads.</p>
+            <p n="1">
+               <hi>I. By it I have taught how to take all manner of</hi> Heights <hi>whether</hi> accessible <hi>or</hi> inaccessible.</p>
+            <p n="2">
+               <pb facs="tcp:60183:3"/>
+               <hi>II. To take all sorts of</hi> Distances <hi>whether</hi> ap<g ref="char:EOLhyphen"/>proachable <hi>or not.</hi>
+            </p>
+            <p n="3">
+               <hi>III. To take the</hi> Di<g ref="char:EOLhyphen"/>stance <hi>of several</hi> Places <hi>one from another, with great ease and facility, by which the most eminent</hi> Places, <hi>as</hi> Churches, Towers, Steeples, Ports, Havens, <hi>and all other things remarkable, may be laid down</hi> in Plano, <hi>accor<g ref="char:EOLhyphen"/>ding to their true</hi> Symetry <hi>or Proportions.</hi>
+            </p>
+            <p n="4">
+               <hi>IV. I have discovered
+<pb facs="tcp:60183:4"/> how, by it, to take the true</hi> Plat <hi>of any field whatsoe<g ref="char:EOLhyphen"/>ver, and that three several ways.</hi>
+            </p>
+            <p n="1">
+               <hi>1. By taking your</hi> Stati<g ref="char:EOLhyphen"/>on <hi>in, or about the</hi> middle <hi>of the field.</hi>
+            </p>
+            <p n="2">
+               <hi>2. By taking your</hi> Sta<g ref="char:EOLhyphen"/>tion <hi>at one</hi> corner <hi>there<g ref="char:EOLhyphen"/>of. And</hi>
+            </p>
+            <p n="3">
+               <hi>3. By</hi> going round about <hi>the same, and making a</hi> Station <hi>at every</hi> Angle <hi>there<g ref="char:EOLhyphen"/>of.</hi>
+            </p>
+            <p>In all which wayes the manner of <hi>Protracting</hi> or lay<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:60183:4"/> down a Plat of the same upon <hi>paper</hi> or <hi>parchment</hi> is also <hi>discovered,</hi> and to cast up the <hi>content</hi> or quantity of any such <hi>Piece</hi> so <hi>platter</hi> or <hi>protracted.</hi>
+            </p>
+            <p>These <hi>Uses</hi> I have here briefly touched, having else<g ref="char:EOLhyphen"/>where more at large treated upon this Subject of <hi>Geoda<g ref="char:EOLhyphen"/>cia</hi> in my <hi>Complete Survey<g ref="char:EOLhyphen"/>or,</hi> to which, for further sa<g ref="char:EOLhyphen"/>tisfaction in that Art, I must refer the Reader, and at this time bid him, Farewel.</p>
+            <closer>
+               <signed>W. L.</signed>
+            </closer>
+         </div>
+         <div type="advert_for_shop">
+            <pb facs="tcp:60183:5"/>
+            <head>ADVERTISEMENT.</head>
+            <p>IF any Gentleman studious in the <hi>Mathematicks,</hi> have, or shall have occasion for Instru<g ref="char:EOLhyphen"/>ments thereunto belonging, or Books to shew the Use of them, they may be furnished with all sorts useful both for Sea and Land, either in Silver, Brass, or Wood, by <hi>Walter Hayes</hi> at the <hi>Cross-Daggers</hi> in <hi>Moor-Fields,</hi> next dore to the <hi>Popes-head</hi> Ta<g ref="char:EOLhyphen"/>vern; where they may have all sorts of Maps, Globes, Sea-Plats, Carpenters Rules, Post and Pocket-Dialls for any Latitude.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:60183:5"/>
+            <head>A DESCRIPTION OF THE SEMICIRCLE.</head>
+            <p>A <hi>Semicircle</hi> in <hi>Geometry</hi> is thus defined, <hi>A</hi> Semi<g ref="char:EOLhyphen"/>circle <hi>is the one half of a</hi> Circle <hi>cut off by the</hi> Diameter, <hi>and is contained un<g ref="char:EOLhyphen"/>der a right Line, which is the</hi> Di<g ref="char:EOLhyphen"/>ameter; <hi>and an Arch or crooked Line, which is the</hi> Circumference, Perifery <hi>or</hi> Limb.</p>
+            <pb n="2" facs="tcp:60183:6"/>
+            <p>The <hi>Semicircle</hi> which we here intend to Describe and shew the Use of, is usually made in Brass, the <hi>Diameter</hi> whereof doth u<g ref="char:EOLhyphen"/>sually contain in length about 10 Inches, the <hi>Semidiameter</hi> half as much; the <hi>Diameter</hi> and <hi>Limb</hi> are either of them about an Inch in breadth: The <hi>Limb</hi> of this <hi>Semicircle</hi> is divided in<g ref="char:EOLhyphen"/>to 180 equal parts, called <hi>De<g ref="char:EOLhyphen"/>grees,</hi> and every of those <hi>De<g ref="char:EOLhyphen"/>grees</hi> is usually divided into smal<g ref="char:EOLhyphen"/>ler equal parts, according to the bigness of the <hi>Instrument</hi> (usu<g ref="char:EOLhyphen"/>ally into four) so is every small division a part, 15 <hi>Minutes.</hi> It is sometimes divided by <hi>Diago<g ref="char:EOLhyphen"/>nals,</hi> so that you may (though the Instrument be small) take off every third or fourth Minute. These Degrees are numbered
+<pb n="3" facs="tcp:60183:6"/> from the left hand towards the right, by 10, 20, 30, <hi>&amp;c,</hi> to 180; and back again from the right hand towards the left, by 190, 200, 210, <hi>&amp;c.</hi> to 360.</p>
+            <p>Upon the <hi>Centre</hi> of this <hi>Semi<g ref="char:EOLhyphen"/>circle</hi> is placed a round <hi>Box</hi> of Brass, in the bottom whereof is a <hi>Card,</hi> having upon it the 32 points of the Mariners Compass, and over it a <hi>Needle</hi> covered with Glass; this <hi>Needle</hi> is at any time to set the <hi>Diameter</hi> of the <hi>Semicircle</hi> due <hi>North</hi> and <hi>South,</hi> or according to any other <hi>Coast.</hi>
+            </p>
+            <p>Between the <hi>Semicircle</hi> and this <hi>Box</hi> is an <hi>Index,</hi> which moves upon the <hi>Centre</hi> of the <hi>Semicircle,</hi> and is of sufficient length to cut at either end there<g ref="char:EOLhyphen"/>of the <hi>Degrees</hi> on the <hi>Limb</hi> of the <hi>Semicircle.</hi> It hath upon
+<pb n="4" facs="tcp:60183:7"/> it two <hi>Sights,</hi> through which you may look either backward or forward, to any <hi>Mark</hi> or <hi>Ob<g ref="char:EOLhyphen"/>ject.</hi>
+            </p>
+            <p>On the backside of the <hi>Semi<g ref="char:EOLhyphen"/>circle</hi> is screwed a <hi>socket,</hi> into which goeth another <hi>socket</hi> cal<g ref="char:EOLhyphen"/>led a <hi>Ball-socket,</hi> which serveth to set the <hi>Semicircle</hi> when it is upon the <hi>Staff</hi> in any position whatsoever, as <hi>horizontal</hi> or <hi>le<g ref="char:EOLhyphen"/>vel, vertical</hi> or <hi>perpendicular,</hi> or <hi>reclining,</hi> or <hi>inclining</hi> to any An<g ref="char:EOLhyphen"/>gle.</p>
+            <p>Into this <hi>Ball-socket</hi> there goes the head of a <hi>three-legged-staff,</hi> which supporteth the <hi>Instrument</hi> in the field.</p>
+            <p>These are all the parts of the <hi>Semicircle,</hi> as it is to be used in the fields to make Observati<g ref="char:EOLhyphen"/>ons; but to lay down your
+<pb n="5" facs="tcp:60183:7"/> Work at home, there belong<g ref="char:EOLhyphen"/>eth,
+<list>
+                  <item>1. <hi>A Protractor.</hi>
+                  </item>
+                  <item>2. <hi>A Scale.</hi>
+                  </item>
+                  <item>3. <hi>A protracting Pin.</hi>
+                  </item>
+                  <item>4. <hi>A pair of Compasses.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. The <hi>Protractor</hi> is made of a thin piece of Brass divided in all respects as the <hi>Semicircle</hi> was, and numbered in the same man<g ref="char:EOLhyphen"/>ner from 1 to 180 degrees, but from 180 degrees to 360 de<g ref="char:EOLhyphen"/>grees; it ought to be numbered from the left hand towards the right, contrary to the number<g ref="char:EOLhyphen"/>ing of your <hi>Semicircle.</hi> The use of this <hi>Protractor</hi> is to lay
+<pb n="6" facs="tcp:60183:8"/> down the quantities of those Angles upon <hi>Velem</hi> or <hi>Paper</hi> which you observe in the field.</p>
+            <p n="2">2. Your <hi>Scale</hi> is a Ruler of Brass, upon which you may have what Scales you please, either <hi>plain</hi> or <hi>diagonal,</hi> as of 10, 11, 12, 16, 20, 24, 30 and 32 in an Inch; these <hi>Scales</hi> are to lay down the lengths of your Lines, as you measured them in the field with your Chain, and ac<g ref="char:EOLhyphen"/>cording to the largeness or smal<g ref="char:EOLhyphen"/>ness of your Scale, you may make our Plat or Draught of what bigness you please.</p>
+            <p n="3">3. Your <hi>Compasses</hi> are to take your distances from your Scale, and to apply them to your paper or velem.</p>
+            <p n="4">
+               <pb n="7" facs="tcp:60183:8"/>4. Your <hi>protracting Pin</hi> is to fix in your Centre point, and al<g ref="char:EOLhyphen"/>so to mark the degrees on the edge of your <hi>Protractor.</hi>
+            </p>
+            <p>The <hi>Chain</hi> which you measure your lengths in the field, may be of what length and how you will divided, but the Chain which the Examples in this Book are wrought by, is 4 Pole in 100 Links.</p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:60183:9"/>
+            <pb n="9" facs="tcp:60183:9"/>
+            <head>THE USE of the SEMICIRCLE <hi>In taking</hi> Of <hi>HEIGHTS, DEPTHS</hi> and <hi>DISTANCES.</hi>
+            </head>
+            <div n="1" type="proposition">
+               <head>
+                  <hi>PROP. I.</hi> How to take the Height of any <hi>Tree, Tower, Stee<g ref="char:EOLhyphen"/>ple,</hi> or other <hi>Object</hi> which standeth upright, and be<g ref="char:EOLhyphen"/>ing accessible at one Stati<g ref="char:EOLhyphen"/>on.</head>
+               <div type="subsection">
+                  <p>
+                     <ref target="#A48356-FIG1">
+                        <label type="milestone">
+                           <seg type="milestoneunit">FIG. </seg>I</label>
+                     </ref>
+                  </p>
+                  <p>LEt A B be a <hi>Castle-Wall,</hi> whose height you would
+<pb n="10" facs="tcp:60183:10"/> know, you standing at C, place your Semicircle at G, and tur<g ref="char:EOLhyphen"/>ning it about by help of your Ball socket, direct it to the Ob<g ref="char:EOLhyphen"/>ject, then fixing all your Sockets fast, by help of the screws for that purpose, hang a Thrid and Plummet upon the Centre of your Semicircle, and move the Semicircle up and down till the Thrid and Plummet hang direct<g ref="char:EOLhyphen"/>ly upon 90 deg. then laying the Index just upon the Diameter, there hold it, and looking through the Sights, mark what part of the <hi>Castle-Wall</hi> you see, for that part is in the true level with your eye, which point let be D; then, the Index still re<g ref="char:EOLhyphen"/>maining fixed, move the Semi<g ref="char:EOLhyphen"/>circle upwards or downwards, till (through the sights) you see
+<pb n="11" facs="tcp:60183:10"/> the very top of the <hi>Castle-Wall</hi> at A (the Semicircle still remai<g ref="char:EOLhyphen"/>ning immoveable) look what number of degrees and parts the Thrid cutteth, which degrees let be 55, which you must set down; lastly, measure the di<g ref="char:EOLhyphen"/>stance from G to B, which let be 200 Foot, to which add 5 Foot, the height of your Semicircles Centre from the ground C E, and it makes 205 Foot; by help of this distance and the degrees before noted down, you may find the altitude of the <hi>Castle-Wall,</hi> as followeth.</p>
+               </div>
+               <div type="subsection">
+                  <head>Example.</head>
+                  <p>Upon a piece of Velem or paper, draw a line at length as M N, towards one end whereof,
+<pb n="12" facs="tcp:60183:11"/> as at B, erect a perpendicular A B, representing the <hi>Castle-Wall;</hi> then from one of your <hi>Scales</hi> take with your Compasses 205 Foot, and set that distance upon your paper or velem, from B, the foot or bottom of the <hi>Castle-Wall,</hi> to C, so shall C upon your paper, represent the place on the ground where the <hi>Semicircle</hi> stood, and 5 Foot more being added (which is the height of your <hi>Semicircle</hi> from the ground) E C maketh 205 Foot, which taken from your Scale will reach from B to F.</p>
+                  <p>This done, place the Centre of your Protractor upon the point F, and the Diameter thereof upon the line M N, then count 35 degrees (which is so much as 55 deg. which the thrid
+<pb n="13" facs="tcp:60183:11"/> cut, wants of 90 deg.) upon the edge of the Protractor, and against it make a <hi>mark</hi> or <hi>point</hi> with your <hi>protracting Pin,</hi> through which point (or mark) and the point F, draw the line F A, cutting the line A B, repre<g ref="char:EOLhyphen"/>senting the Castle-Wall, in A, so shall A B be the height of the Wall, which being measured by the same Scale as B F 205 Foot was taken from, will be found to be 143 Foot, and so high is the Castle-wall from the ground.</p>
+               </div>
+            </div>
+            <div n="2" type="proposition">
+               <pb n="14" facs="tcp:60183:12"/>
+               <head>
+                  <hi>PROP. II.</hi> How to take the Height of an Object which is not ac<g ref="char:EOLhyphen"/>cessible at two Stations, by help of the <hi>Semicircle.</hi>
+               </head>
+               <p>SUppose A B to be a Castle-Wall as before, and you can<g ref="char:EOLhyphen"/>not come nearer to the Wall than G, for that there is a Moat about the Wall so broad.</p>
+               <p>First, Place your Semicircle at G, the edge of the Moat or Trench, and directing the sights to A, the top of the Wall, you shall find the to Thrid cut 30 de.</p>
+               <pb n="15" facs="tcp:60183:12"/>
+               <p>Secondly, Go backwards a competent distance of ground, in a right line, as to F, and there placing your <hi>Semicircle</hi> as be<g ref="char:EOLhyphen"/>fore, direct the sights to A, where you shall find the Thrid to cut 55 deg.</p>
+               <p>Thirdly, Measure the distance between G and F, which let be 125 Foot; these two Observa<g ref="char:EOLhyphen"/>tions being made at G and F, and the distance between them measured by the Chain, the al<g ref="char:EOLhyphen"/>titude of the Wall may be easi<g ref="char:EOLhyphen"/>ly attained in manner following.</p>
+               <div type="subsection">
+                  <head>Example.</head>
+                  <p>First, Upon paper, or the like, draw a line M N, upon which,
+<pb n="16" facs="tcp:60183:13"/> towards one end thereof, as at F, place the Centre of your Protractor, and because the Thrid there cut 55 deg. make a mark against 35 deg. of your Protractor (which is so much as 55 deg. wants of 90 deg.) and through this point, and the point F, draw a right line at length upwards.</p>
+                  <p>Secondly, For that the di<g ref="char:EOLhyphen"/>stance between G and F (your two stations) was 125 Foot, take 125 out of some one of your scales, and set off that distance upon your paper from F to G.</p>
+                  <p>Thirdly, Lay the Centre of your Protractor upon G, and the Diameter thereof upon the line M N, and because when you
+<pb n="17" facs="tcp:60183:13"/> made Observation at G, the Thrid cut 30 deg. make a mark against 60 deg. of the Protractor, (which is so much as 30 de. wants of 90 d.) and through this mark, and the point G, draw a right line at length upwards, continuing it till it cut the former line drawn from F, which it will do in the point A.</p>
+                  <p>Lastly, From the point A let fall a perpendicular upon the line M N, which will fall upon the point B, so is A B the height of the Castle-Wall, which if you take in your Compasses, and measure it upon the scale from whence you took your distance F G, you shall find it to contain 143 Foot, and so high is the Castle-Wall.</p>
+               </div>
+            </div>
+            <div n="3" type="proposition">
+               <pb n="18" facs="tcp:60183:14"/>
+               <head>
+                  <hi>PROP. III.</hi> A Fort or Castle being be<g ref="char:EOLhyphen"/>sieged, how the Besiegers shall know of what length to make Scaling-Ladders that shall reach from the edge of the Moat or Trench to the top of the Wall.</head>
+               <p>LEt A B be the Wall of a Fort or Castle, and that the Castle within were besieged, the Besiegers lying at F, and cannot come nearer to the Wall than G, the edge of the Moat; wherefore standing at G, make Observation with your Semicir<g ref="char:EOLhyphen"/>cle
+<pb n="19" facs="tcp:60183:14"/> as you did before, and you shall find the Thrid to cut 30 deg.— Do the like at F, and you shall find the Thrid to cut 55 deg. and the distance be<g ref="char:EOLhyphen"/>tween G and F measured will be found to be 125— These two Observations being made, and the distance F G measured (all which are the same as in the last <hi>Prop.</hi>) you may protract or lay down the same upon velem or paper, in all respects as in the former <hi>Prop.</hi> and so measuring the line G A upon the same scale that G F was measured by, you shall find it to contain 166 Foot, and so long must Ladders be to scale the Walls of this Fort or Castle.</p>
+            </div>
+            <div n="4" type="proposition">
+               <pb n="20" facs="tcp:60183:15"/>
+               <head>
+                  <hi>PROP. IV.</hi> Standing upon a Wall or Tower of a known height, to find how far any Ship, Tree, <hi>&amp;c.</hi> is from you.</head>
+               <p>LEt A be the top of a Tow<g ref="char:EOLhyphen"/>er or Castle standing by the Sea side, and let F be a ship ly<g ref="char:EOLhyphen"/>ing at anchor, and you would know how far that ship is off the Castle-Wall.</p>
+               <p>Standing upon the Tower-Wall at A, with your <hi>Semicircle,</hi> direct the sights (the Index ly<g ref="char:EOLhyphen"/>ing upon the Diameter) to F, the Thrid will cut 55 deg. then the Castle-Wall being 143 Foot
+<pb n="21" facs="tcp:60183:15"/> high; by help of these two you may find the distance that the ship at F, is from the Castle-Wall B, in this manner.</p>
+               <p>Upon paper or parchment draw a line A B, representing the Castle-Wall, and upon it, by help of your scale, set the height thereof 143 Foot, from A to B, and upon the point B erect the perpendicular B F.</p>
+               <p>Then placing the Centre of your Protractor upon A, turn it about upon that point, till 55 deg. (which were the degrees cut by the Thrid) come to lie directly upon the line A B, then at 00 deg. (or the beginning of the Semicircle of the Protra<g ref="char:EOLhyphen"/>ctor) make a mark close by the edge thereof, through which point and the point A, draw a
+<pb n="22" facs="tcp:60183:16"/> line at length downwards, which line being drawn, will cut the line B F in the point F, so the distance B F, being taken in your Compasses, and measured upon the same scale from whence A B (the height of the Wall) was taken, it will be found to contain 205 Foot, and so far is the ship F from the Castle-Wall B.</p>
+            </div>
+            <div n="5" type="proposition">
+               <pb n="23" facs="tcp:60183:16"/>
+               <head>
+                  <hi>PROP. V.</hi> How to take an inaccessible Distance at two Stations by the <hi>Semicircle.</hi>
+               </head>
+               <div type="subsection">
+                  <p>
+                     <ref target="#A48356-FIG2">
+                        <label type="milestone">
+                           <seg type="milestoneunit">FIG. </seg>II</label>
+                     </ref>
+                  </p>
+                  <p>SUppose you were standing at G, and that it were re<g ref="char:EOLhyphen"/>quired of you to know how far distant the Tree of A is from you, between which and you there is the River D, so that you cannot come near A.</p>
+                  <p>First, Place your <hi>Semicircle</hi> at C, laying the Index on the
+<pb n="24" facs="tcp:60183:17"/> Diameter thereof, and turn the Semicircle about till through the sights you see the Tree at A, and there fixing the Semicircle, turn the Index about till you see the Mark set up at B, and there note what degrees the Index cutteth, which let be 110 deg.</p>
+                  <p>Secondly, Remove your Se<g ref="char:EOLhyphen"/>micircle from C to B (setting up a Mark at G, where your <hi>Semi<g ref="char:EOLhyphen"/>circle</hi> before stood) and laying the Index on the Diameter there<g ref="char:EOLhyphen"/>of, turn the <hi>Semicircle</hi> about till through the sights thereof you see the Mark at C, where your Instrument before stood, and there fixing the <hi>Semicircle</hi> turn the Index about till by the sights you see the Tree at A, and there also note what degrees the
+<pb n="25" facs="tcp:60183:17"/> Index cutteth, which let be 40 deg.</p>
+                  <p>Thirdly, Measure the distance between C and B, which let be 120 Foot; by help of these three you shall find the distance of A from either C or B, as fol<g ref="char:EOLhyphen"/>loweth.</p>
+               </div>
+               <div type="subsection">
+                  <head>Example.</head>
+                  <p>Draw a line upon paper as A C, and laying the Centre of your Protractor upon C, and the Diameter thereof upon the line C A, with your protracting Pin make a mark against 110 deg. and through that point and the point C, draw a line C B; then from your Scale take 120 Foot, and set it upon the line C B, from C to B.</p>
+                  <pb n="26" facs="tcp:60183:18"/>
+                  <p>This done, lay the Centre of your Protractor upon the point B, and the Diameter there<g ref="char:EOLhyphen"/>of upon the line C B, and make a mark against 40 deg. through which mark and the point B, draw the line B A, cutting the former line C A in the point A.</p>
+                  <p>Lastly, If you take in your Compasses the line C A, and measure it upon the Scale from which you took B C 120 Foot, you will find it to contain 154 Foot and about half a Foot, and such is the distance A C.</p>
+                  <p>In like manner, if you mea<g ref="char:EOLhyphen"/>sure A B by the same Scale, you shall find it to contain 224 Foot, and about half a Foot.</p>
+               </div>
+            </div>
+            <div n="6" type="proposition">
+               <pb n="27" facs="tcp:60183:18"/>
+               <head>
+                  <hi>PROP. VI.</hi> How to Measure the Distance of several Places from you, as also of one from another, by measuring only of one <hi>Distance,</hi> and observing of <hi>Angles</hi> by the <hi>Semi<g ref="char:EOLhyphen"/>circle.</hi>
+               </head>
+               <div type="subsection">
+                  <p>
+                     <ref target="#A48356-FIG3">
+                        <label type="milestone">
+                           <seg type="milestoneunit">FIG. </seg>III</label>
+                     </ref>
+                  </p>
+                  <p>LEt A, B, C, D, E, be seve<g ref="char:EOLhyphen"/>ral places, as Churches in a Town or City, or the like, whose distance you require one from another.</p>
+                  <pb n="28" facs="tcp:60183:19"/>
+                  <p>First, Make choice of two places, from either of which you may see all the places, whose distance you require, which pla<g ref="char:EOLhyphen"/>ces let be F and G, distant one from another 100 Foot.</p>
+                  <p>Secondly, Place your Semi<g ref="char:EOLhyphen"/>circle at F, and laying the Index on the Diameter, turn the Se<g ref="char:EOLhyphen"/>micircle about till through the sights you see your other place of standing at G; and there fix<g ref="char:EOLhyphen"/>ing your Instrument, first, di<g ref="char:EOLhyphen"/>rect your sights to A, noting what degrees the Index cutteth, then to B, and note what de<g ref="char:EOLhyphen"/>grees are there cut by the Index, doing the like at C, D, and E; all which degrees note down in a Book or paper.</p>
+                  <pb n="29" facs="tcp:60183:19"/>
+                  <p>Then removing your Semicir<g ref="char:EOLhyphen"/>cle to G, and setting up a Mark at F, lay the Index on the Di<g ref="char:EOLhyphen"/>ameter thereof, and turn the Semicircle about till you see the place of your former standing at F, and there fixing the <hi>Semi<g ref="char:EOLhyphen"/>circle,</hi> make observation of eve<g ref="char:EOLhyphen"/>ry place as you did at F: First, directing the sights to A, noting the degrees cut by the Index, likewise to B, C, D and E.</p>
+                  <p>By these observations of An<g ref="char:EOLhyphen"/>gles, made at either station F and G, and the stationary di<g ref="char:EOLhyphen"/>stance, you may draw a perfect draught of all the places upon paper or velem, in their true position and situation, in manner following.</p>
+               </div>
+               <div type="subsection">
+                  <pb n="30" facs="tcp:60183:20"/>
+                  <head>Example.</head>
+                  <p>First, Upon your velem or paper draw a line F G, contai<g ref="char:EOLhyphen"/>ning 100 Foot of any Scale, which line shall represent the distance of your two stations.</p>
+                  <p>Secondly, Place the Centre of your Protractor upon F, and lay the Diameter thereof upon the line F G, and there keeping it steady, make a mark against those deg. which the Index cut upon the <hi>Semicircle</hi> when the sights were directed to A; also make a mark against those deg. of the Protractor which the Index cut at B, &amp; the like at C, D &amp; E.</p>
+                  <p>Thirdly, Through the point F, and every one of those marks you made against the side of
+<pb n="31" facs="tcp:60183:20"/> the Protractor, draw lines, as F A, F B, F C, above the line F G, and F D, F E, below the line.</p>
+                  <p>Fourthly, Lay the Centre of your Protractor upon the point G, and the Diameter thereof upon the line F G, and there keeping it fast make marks a<g ref="char:EOLhyphen"/>gainst the edge thereof, at those degrees the Index cut, upon the Semicircle, when the sights were directed to A, B, C, D, and E; and through those points and the point G, draw right lines G A, G B, G C, G D, and G E, cutting the former lines drawn from F, in the points A, B, C, D, and E; which points will stand in the same position and situation as the Churches or other places in the City or Town do; and if
+<pb n="32" facs="tcp:60183:21"/> you take in your Compasses the distance between any two of them, and measure that distance upon the same Scale that F G 100 was measured from, it will there shew you the distance of those two places.</p>
+               </div>
+            </div>
+         </div>
+         <div type="part">
+            <pb n="33" facs="tcp:60183:21"/>
+            <head>THE USE of the SEMICIRCLE IN Measuring of LAND.</head>
+            <div n="1" type="proposition">
+               <head>
+                  <hi>PROP. I.</hi> To take the Plat of a <hi>Field</hi> by placing the <hi>Semicircle</hi> in any part thereof, from whence all the Angles of the <hi>Field</hi> may be seen.</head>
+               <p>PLace your <hi>Semicircle</hi> upon his staff in some convenient place of the Field (whose Plat you would take) that from
+<pb n="34" facs="tcp:60183:22"/> thence you may conveniently see all the Angles thereof, then set<g ref="char:EOLhyphen"/>ting the Semicircle level (by help of the Ball-socket) lay the Index upon the Diameter, and turn the Semicircle about till the Needle hang directly over the North and South Points of the Card, and there fix the Se<g ref="char:EOLhyphen"/>micircle, by help of the screw of the <hi>plain Socket,</hi> then doth the Instrument (the Diameter thereof) lie directly in the Me<g ref="char:EOLhyphen"/>ridian, and is fitted for your pre<g ref="char:EOLhyphen"/>sent use.</p>
+               <p>Your Instrument thus fixed, cause marks to be set up at eve<g ref="char:EOLhyphen"/>ry angle of the Field (or rather let one go from angle to angle with a long staff having a white cloth or paper tyed to the top thereof) and coming to your
+<pb n="35" facs="tcp:60183:22"/> Instrument, the Diameter being next to you, and the Limb of the Semicircle from you, turn the Index about till through the sights thereof you espie the first of your marks (or man) which is on your right hand, and when you have directly found your mark, let the Index rest, and see what degrees and parts of a de<g ref="char:EOLhyphen"/>gree of the Semicircle are cut thereby; which degrees and parts note down in a book or pa<g ref="char:EOLhyphen"/>per ruled, as that which follow<g ref="char:EOLhyphen"/>eth.</p>
+               <p>In this nature must you deal with every angle, round about the field, beginning at that which is next towards your left hand, and proceeding gradual<g ref="char:EOLhyphen"/>ly from that towards the right hand, till you find that end of
+<pb n="36" facs="tcp:60183:23"/> the Index which cut the degrees falls off of the Instrument, (which will alwayes be when you come past 180 degrees) then must you look through the o<g ref="char:EOLhyphen"/>ther sights, and the Limb of the <hi>Semicircle</hi> will be next to you, and you must count your de<g ref="char:EOLhyphen"/>grees from 180 towards 360; to which, before you come, you will have passed all your An<g ref="char:EOLhyphen"/>gles.</p>
+               <p>When you have taken obser<g ref="char:EOLhyphen"/>vation of all your Angles, you must, with your Chain, measure from the place where your Se<g ref="char:EOLhyphen"/>micircle stands, to every Angle (beginning with the first, and so proceeding from the left to<g ref="char:EOLhyphen"/>wards the right hand) and note how many Chains and Links each line contains, which lengths
+<pb n="37" facs="tcp:60183:23"/> must be set down in your book or paper, in a column by them<g ref="char:EOLhyphen"/>selves, against the degrees which the Index cut, when you made observation at that Angle, that is, the first length against the first degrees, and the second length against the second de<g ref="char:EOLhyphen"/>grees; and in this order must you proceed till you have mea<g ref="char:EOLhyphen"/>sured all your lengths.</p>
+               <div type="subsection">
+                  <head>The foregoing Precepts illustrated by Example. </head>
+                  <p>
+                     <ref target="#A48356-FIG4">
+                        <label type="milestone">
+                           <seg type="milestoneunit">FIG. </seg>IV</label>
+                     </ref>
+                  </p>
+                  <p>LEt <hi>a, b, c, d, e, f, g,</hi> be a field to be Surveyed. Place your <hi>Semicircle</hi> (it being a con<g ref="char:EOLhyphen"/>venient place) at O, the diame<g ref="char:EOLhyphen"/>ter thereof, as also the Needle
+<pb n="38" facs="tcp:60183:24"/> in the Box, hanging over the North and South Points in the Card, then will they lie direct<g ref="char:EOLhyphen"/>ly over the line N S in this Fi<g ref="char:EOLhyphen"/>gure; then fix your Instrument, and directing your sights to A (your first Angle) you shall find the Index to cut 12 <hi>d.</hi> 15 <hi>m.</hi> which set down in your book or paper; then directing your sights to B, the Index cuts 37 <hi>d.</hi> at C, 94 <hi>d.</hi> 30 <hi>m.</hi> and the rest as in the following Table, repre<g ref="char:EOLhyphen"/>senting your book or paper, in which you took your notes.</p>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="label">
+                              <hi>d. m.</hi>
+                           </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="label">C. L.</cell>
+                        </row>
+                        <row>
+                           <cell rows="7">The In<g ref="char:EOLhyphen"/>dex cut when directed to the mark</cell>
+                           <cell>A</cell>
+                           <cell>12.15</cell>
+                           <cell rows="7">And the distance from O the place of the Semicir<g ref="char:EOLhyphen"/>cle, was</cell>
+                           <cell>OA</cell>
+                           <cell>10.35</cell>
+                        </row>
+                        <row>
+                           <cell>B</cell>
+                           <cell>37.0</cell>
+                           <cell>OB</cell>
+                           <cell>9.45</cell>
+                        </row>
+                        <row>
+                           <cell>C</cell>
+                           <cell>94.30</cell>
+                           <cell>OC</cell>
+                           <cell>10.30</cell>
+                        </row>
+                        <row>
+                           <cell>D</cell>
+                           <cell>169.15</cell>
+                           <cell>OD</cell>
+                           <cell>6.20</cell>
+                        </row>
+                        <row>
+                           <cell>E</cell>
+                           <cell>193.0</cell>
+                           <cell>OE</cell>
+                           <cell>8.93</cell>
+                        </row>
+                        <row>
+                           <cell>F</cell>
+                           <cell>270 30</cell>
+                           <cell>OF</cell>
+                           <cell>8.05</cell>
+                        </row>
+                        <row>
+                           <cell>G</cell>
+                           <cell>347.0</cell>
+                           <cell>OG</cell>
+                           <cell>5.20</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="39" facs="tcp:60183:24"/>
+                  <p>Having gone through all your Angles, and noted them down in your book or paper, as is done in the foregoing Table, in the column having <hi>d. m.</hi> at the top thereof (signifying De<g ref="char:EOLhyphen"/>grees and Minutes) you must then go to the measuring of your lines, where you shall find O A to contain 10 Chains 35 Links, O B 9 Chains 45 Links, and the rest as in the Table in that column which hath C. L. at the top thereof, C signi<g ref="char:EOLhyphen"/>fying Chains, and L Links.</p>
+                  <p>When you have thus taken observation of all your Lines and Angles, and noted them down in a Book or paper, you may, at pleasure, draw the Plat
+<pb n="40" facs="tcp:60183:25"/> of the Field upon Velem or Paper, by the Precepts which shall be delivered in the follow<g ref="char:EOLhyphen"/>ing Proposition.</p>
+               </div>
+            </div>
+            <div n="2" type="proposition">
+               <pb n="41" facs="tcp:60183:25"/>
+               <head>
+                  <hi>PROP. II.</hi> How to lay down the Plat of the former Field upon Ve<g ref="char:EOLhyphen"/>lem or Paper, by help of the former Observations of Lines and Angles.</head>
+               <p>UPon a piece of Velem or sheet of Paper, draw a line for the Meridian or North and South Line, represented by the line in the Figure by N S. In some convenient place of that line (as at O) assign a point, which point O upon your paper, represents or signifies the place in the Field where your Semi<g ref="char:EOLhyphen"/>circle
+<pb n="42" facs="tcp:60183:26"/> stood when you made ob<g ref="char:EOLhyphen"/>servation of your Angles.</p>
+               <p>Upon this point O place the Centre of your Protractor, lay<g ref="char:EOLhyphen"/>ing the Meridian Line or Dia<g ref="char:EOLhyphen"/>meter thereof just along the line N S, drawn upon the paper, and there hold it fast. Then having recourse to your Table of Angles, which you observed in the field, you find your first to be 12 deg. 15 min. where<g ref="char:EOLhyphen"/>fore, close to the edge of your Protractor, and against 12 deg. 15 min. make a mark with your protracting Pin; and still kee<g ref="char:EOLhyphen"/>ping your protractor in the same position unmoved, make a mark against 37 deg. your second An<g ref="char:EOLhyphen"/>gle, also against 94 deg. 30 min. your third Angle, and against 169 deg. 15 min. your fourth Angle.</p>
+               <pb n="43" facs="tcp:60183:26"/>
+               <p>Then because your fifth An<g ref="char:EOLhyphen"/>gle at E, exceeds 180 deg. it being 193 deg. you must turn the <hi>Semicircle</hi> of your <hi>Protractor</hi> downwards, laying the Centre thereof upon the point O, and the Diameter upon the line N S as before, and against 193 deg. make a mark with your pro<g ref="char:EOLhyphen"/>tracting Pin, do the like against 270 deg. 30 min. your sixth Angle, and against 347 deg. your last Angle.</p>
+               <p>These points being marked upon your paper, through eve<g ref="char:EOLhyphen"/>ry one of them, and the point O, draw obscure lines as O A, O B, O C, O D, O E, O F and O G— Then having recourse to your Table of Lines, which you measured in the Field, you find that the first line O A, con<g ref="char:EOLhyphen"/>tained
+<pb n="44" facs="tcp:60183:27"/> 10 Chains 35 Links, wherefore from some Scale (ac<g ref="char:EOLhyphen"/>cording to the bigness you would have your <hi>Plat</hi>) take 10 C. 35 L. and set it upon your pa<g ref="char:EOLhyphen"/>per from O to A, this point A u<g ref="char:EOLhyphen"/>pon the paper shall represent the first Angle in the field A; your second length being 9 Ch. 45 Li. take that from your Scale, and set it upon your paper from O to B. Do thus with all the rest of the lengths, and when you have found out and marked upon your paper the several points A, B, C, D, E, F and G. If you draw lines from point to point, as from A to B, from B to C, from C to D, <hi>&amp;c.</hi> you shall constitute the figure A B C D E F G, which shall be the exact <hi>Plat</hi> of your <hi>Field</hi> O.
+<pb n="45" facs="tcp:60183:27"/> And thus may you take the <hi>Plat</hi> of any <hi>Field,</hi> where you may see all the Angles from any one place.</p>
+            </div>
+            <div n="3" type="proposition">
+               <pb n="46" facs="tcp:60183:28"/>
+               <head>
+                  <hi>PROP. III.</hi> How to take the <hi>Plat</hi> of a <hi>Field</hi> or other piece of <hi>Ground,</hi> by placing the Semicircle in some one An<g ref="char:EOLhyphen"/>gle thereof, from wbence all the rest may be seen.</head>
+               <p>YOur <hi>Semicircle</hi> being pla<g ref="char:EOLhyphen"/>in the Angle where you in<g ref="char:EOLhyphen"/>tend to make your observation, with the Index upon the Diame<g ref="char:EOLhyphen"/>ter thereof, and the Needle hanging over the Meridian Line in the Card. It being thus fixed, direct your sights to the first Angle towards your left
+<pb n="47" facs="tcp:60183:28"/> hand, noting the degrees and minutes cut by the Index, and note them down in a book or paper, in all respects as you did those in the former <hi>Proposition.</hi>
+               </p>
+               <p>Then measure with your Chain from that Angle where your <hi>Semicircle</hi> standeth, to e<g ref="char:EOLhyphen"/>very one of the other Angles, noting the lengths of every of them, and write them also down in your book or paper, procee<g ref="char:EOLhyphen"/>ding thus from the first line on your left hand, till you come round the field to that again.</p>
+               <div type="subsection">
+                  <pb n="48" facs="tcp:60183:29"/>
+                  <head>Example.</head>
+                  <p>
+                     <ref target="#A48356-FIG5">
+                        <label type="milestone">
+                           <seg type="milestoneunit">FIG. </seg>V</label>
+                     </ref>
+                  </p>
+                  <p>LEt H, K L M N O P Q be a piece of Ground to be measured in the manner here prescribed: The <hi>Semicircle</hi> pla<g ref="char:EOLhyphen"/>ced in the Angle Q, direct the sights to H, where the Index cuts 15 <hi>deg.</hi> which note down, then direct the sights to K, where the Index cuts 31 <hi>degrees,</hi> 30 <hi>minutes,</hi> likewise to L, M, N, O, P, where the Index cut the <hi>de<g ref="char:EOLhyphen"/>grees</hi> and parts, as in the Table following.</p>
+                  <pb n="49" facs="tcp:60183:29"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="label">
+                              <hi>d.m.</hi>
+                           </cell>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="label">C.L.</cell>
+                        </row>
+                        <row>
+                           <cell rows="7">
+                              <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>n<g ref="char:EOLhyphen"/>
+                              <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>ut <gap reason="illegible" resp="#murp" extent="1 word">
+                                 <desc>〈◊〉</desc>
+                              </gap>
+                              <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>ted <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>e <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>e</cell>
+                           <cell>H</cell>
+                           <cell>15.0</cell>
+                           <cell rows="7">And the distance from the An<g ref="char:EOLhyphen"/>gle Q, as</cell>
+                           <cell>QH</cell>
+                           <cell>9.90</cell>
+                        </row>
+                        <row>
+                           <cell>K</cell>
+                           <cell>51.30</cell>
+                           <cell>QK</cell>
+                           <cell>10.25</cell>
+                        </row>
+                        <row>
+                           <cell>L</cell>
+                           <cell>87.14</cell>
+                           <cell>QL</cell>
+                           <cell>11.60</cell>
+                        </row>
+                        <row>
+                           <cell>M</cell>
+                           <cell>106.0</cell>
+                           <cell>QM</cell>
+                           <cell>12.30</cell>
+                        </row>
+                        <row>
+                           <cell>N</cell>
+                           <cell>168.15</cell>
+                           <cell>QN</cell>
+                           <cell>12.0</cell>
+                        </row>
+                        <row>
+                           <cell>O</cell>
+                           <cell>196.0</cell>
+                           <cell>QO</cell>
+                           <cell>10.85</cell>
+                        </row>
+                        <row>
+                           <cell>P</cell>
+                           <cell>250.0</cell>
+                           <cell>QP</cell>
+                           <cell>6.88</cell>
+                        </row>
+                     </table>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="proposition">
+               <pb n="50" facs="tcp:60183:30"/>
+               <head>
+                  <hi>PROP. IV.</hi> By the former Observations of Lines and Angles, to draw the Plat or Figure of the Field upon Velem or Paper.</head>
+               <p>DRaw upon Velem or Paper a line N S, representing the Meridian Line, upon which line assign a point as Q, which denotes the place where your <hi>Semicircle</hi> stood in the field.</p>
+               <p>Upon this point Q, lay the Centre of your Protractor, and the Diameter thereof upon the line N S; and there holding it fast, look in your Table what
+<pb n="51" facs="tcp:60183:30"/> degrees the Index cut when you made observation at H, which were 15 degrees, make a mark against 15 degrees of your Pro<g ref="char:EOLhyphen"/>tractor; likewise see by your Table what <hi>degrees</hi> the Index cut when you made observation at K, which were 31 <hi>degrees</hi> 30 <hi>min.</hi> make a mark against 31 <hi>deg.</hi> 30 <hi>min.</hi> of your Protractor; and in like manner do with eve<g ref="char:EOLhyphen"/>ry Angle, as at L, 87 <hi>deg.</hi> 15 <hi>min.</hi> at M, 106 <hi>deg.</hi> 0 <hi>min.</hi> at N, 168 <hi>deg.</hi> 15 <hi>min.</hi> at O, 196 <hi>deg.</hi> and at P, 250 <hi>deg.</hi> at all which numbers of <hi>degrees,</hi> make marks against the side of your Pro<g ref="char:EOLhyphen"/>tractor.</p>
+               <p>Then removing your Protra<g ref="char:EOLhyphen"/>ctor, draw right lines from the point Q through every one of those marks, so shall you have
+<pb n="52" facs="tcp:60183:31"/> upon your velem or paper the several Lines Q H, Q K, Q L, Q M, Q N, Q O, and Q P.</p>
+               <p>Again repair to your former Table, where you shall find that the line Q H, being measu<g ref="char:EOLhyphen"/>red by the Chain in the field, contained 9 Chains, 90 Links, take this distance from any of your Scales, and set it upon the line Q H, from Q to H; and so have you the point H upon the paper.</p>
+               <p>In like manner, take 10 Chains 25 Links from your Scale, and set it from Q to K, so have you the point K upon your paper. And in this man<g ref="char:EOLhyphen"/>ner deal with all the numbers of Chains and Links in your Table, and they will give you the points L, M, N, O, P, upon your velem or paper.</p>
+               <pb n="53" facs="tcp:60183:31"/>
+               <p>Lastly, If you draw the lines Q H, Q K, Q L, Q M, Q N, Q O, Q P; you shall thereby constitute the true Symetry or proportion of the field you measured, the several Angles whereof are H, K, L, M, N, O, P, and Q.</p>
+            </div>
+            <div n="5" type="proposition">
+               <head>
+                  <hi>PROP. V.</hi> How you may by the Semi<g ref="char:EOLhyphen"/>circle, take the true Plat of any large piece of Ground, as <hi>Park, Wood, Marsh,</hi> or other spacious Inclosures, by going round about the same.</head>
+               <p>IN going round about a field (or other ground) to survey
+<pb n="54" facs="tcp:60183:32"/> M, which is the most general way of all others, there are two wayes, but both effected by the same artifice; for in going a<g ref="char:EOLhyphen"/>bout a field, you may either go about it on the inside of the field, or on the outside thereof, and sometimes you shall be con<g ref="char:EOLhyphen"/>strained to go partly within and partly without, and if you go without the field, you may (if you will) take the quantity of the Angles within, and if you go on the inside, you may take the quantity of the Angles with<g ref="char:EOLhyphen"/>out: This I give by way of caution, but the way I intend here, is (as being the best to prevent mistakes) in going with<g ref="char:EOLhyphen"/>out, to take the quantity of the Angles without; and if within, to take the quantity of the An<g ref="char:EOLhyphen"/>gles within the field.</p>
+               <div type="subsection">
+                  <pb n="55" facs="tcp:60183:32"/>
+                  <p>
+                     <ref target="#A48356-FIG6">
+                        <label type="milestone">
+                           <seg type="milestoneunit">FIG. </seg>VI</label>
+                     </ref>
+                  </p>
+                  <p>Let A B C D E F be a field to be measured by going about the same on the outside.</p>
+                  <p>First, Begin at any Angle thereof, as A, and there place your Semicircle, laying the In<g ref="char:EOLhyphen"/>dex upon the Diameter, and tur<g ref="char:EOLhyphen"/>ning it about, direct the sights to B, there fix the Semicircle, and turn the Index about, till through the sights you see the Angle at F, and there note what <hi>deg.</hi> the Index cutteth, which you will find to be 300, for the quan<g ref="char:EOLhyphen"/>tity of the exterior Angle F A H without the field, or 60 <hi>de.</hi> for the quantity of the interior Angle
+<pb n="56" facs="tcp:60183:33"/> within the field; but (as I said before) going without the field I make use of the exterior or outward Angles: Then mea<g ref="char:EOLhyphen"/>sure the side F A, which you shall find to be 10 Chains 25 Links, and the side A B 7 Chains 50 Links; these distances with the quantity of the Angle note down in a book or paper, as you see in the following Table.</p>
+                  <p>Secondly, Remove your Se<g ref="char:EOLhyphen"/>micircle to B, and laying the Index upon the Diameter, turn the Instrument about, till through the sights you see the place where your Semicircle last stood at A, and then fixing it, turn the Index about till by the sights you see the Angle C, and there note the <hi>degrees</hi> which the Index cutteth, which
+<pb n="57" facs="tcp:60183:33"/> here are 145 <hi>degrees,</hi> and the distance B C measured is 7 Chains 10 Links; note both the <hi>degrees</hi> and distance down as be<g ref="char:EOLhyphen"/>fore.</p>
+                  <p>Thirdly, Carry your Semi<g ref="char:EOLhyphen"/>circle to C, and placing the Index on the Diameter, look back to B, and there fix the Instrument, then turn the Index about till you see the Angle at D, where the Index cutteth 270 <hi>degrees,</hi> and the distance C D is 5 Chains 85 Links.</p>
+                  <p>Fourthly, Remove the Semi<g ref="char:EOLhyphen"/>circle to D, and the Index on the Diameter, look back to C, then fix the Semicircle and turn the Index about, till by the sights you see the Angle at E, the Index cutting 263 <hi>degrees,</hi> and the measured distance D E being 7
+<pb n="58" facs="tcp:60183:34"/> Chains, note these down in your book or paper.</p>
+                  <p>Fifthly, Place the Semicircle at E, and the Index lying on the Diameter, look back through the sights to D, then fixing the Instrument there, turn the Index about till by the sights you see the Angle F, the Index cutteth 220 <hi>degrees,</hi> and the measured distance E F being 10 Chains 70 Links, both which you must note down. And</p>
+                  <p>Sixthly, Carry the Semicir<g ref="char:EOLhyphen"/>cle to F, and the Index lying on the Diameter, look back to E, and then fix the Instrument, then turn the Index about till by the sights you see your first An<g ref="char:EOLhyphen"/>gle at A, the Index then cutting 210 <hi>degrees;</hi> these being noted down will stand as in this Table.</p>
+                  <pb n="59" facs="tcp:60183:34"/>
+                  <p>
+                     <table>
+                        <row>
+                           <cell> </cell>
+                           <cell> </cell>
+                           <cell role="label">
+                              <hi>d.</hi>
+                           </cell>
+                           <cell role="label">
+                              <hi>m.</hi>
+                           </cell>
+                           <cell> </cell>
+                           <cell role="label">C.</cell>
+                           <cell role="label">L.</cell>
+                           <cell> </cell>
+                        </row>
+                        <row>
+                           <cell rows="6">Angles.</cell>
+                           <cell>A</cell>
+                           <cell>300</cell>
+                           <cell>0</cell>
+                           <cell rows="6"> </cell>
+                           <cell>10</cell>
+                           <cell>25</cell>
+                           <cell rows="6">Sides.</cell>
+                        </row>
+                        <row>
+                           <cell>B</cell>
+                           <cell>145</cell>
+                           <cell>0</cell>
+                           <cell>7</cell>
+                           <cell>50</cell>
+                        </row>
+                        <row>
+                           <cell>C</cell>
+                           <cell>270</cell>
+                           <cell>0</cell>
+                           <cell>7</cell>
+                           <cell>10</cell>
+                        </row>
+                        <row>
+                           <cell>D</cell>
+                           <cell>263</cell>
+                           <cell>0</cell>
+                           <cell>5</cell>
+                           <cell>85</cell>
+                        </row>
+                        <row>
+                           <cell>E</cell>
+                           <cell>220</cell>
+                           <cell>0</cell>
+                           <cell>7</cell>
+                           <cell>00</cell>
+                        </row>
+                        <row>
+                           <cell>F</cell>
+                           <cell>210</cell>
+                           <cell>0</cell>
+                           <cell>10</cell>
+                           <cell>70</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <p>These Observations of Sides and Angles being made in the field, and noted down as in the foregoing Table, a Plat thereof may be drawn upon velem or paper by help of the following directions.</p>
+               </div>
+            </div>
+            <div n="6" type="proposition">
+               <pb n="60" facs="tcp:60183:35"/>
+               <head>
+                  <hi>PROP. VI.</hi> How to draw a true <hi>Plat</hi> of the Field before measured, by help of the Table of Sides and Angles.</head>
+               <p>UPon your velem or paper draw a Line A B, containing 7 Chains 50 Links of any Scale, and upon the end A place the Centre of the <hi>Protractor,</hi> lay<g ref="char:EOLhyphen"/>ing the Diameter upon the line A B, then the exterior Angle A being 300 <hi>degrees,</hi> make a mark against 300, and through that point and the point A, draw a line downwards as A F, contai<g ref="char:EOLhyphen"/>ning 10 Chains 25 Links.</p>
+               <p>Secondly, Place the Centre
+<pb n="61" facs="tcp:60183:35"/> of the <hi>Protractor</hi> upon B, and the Diameter upon A B, and against 145 <hi>degrees</hi> (the Angle at B) make a mark, and through that mark and B draw the line B C, containing 7 Chains 10 Links.</p>
+               <p>Thirdly, Lay the Centre of the <hi>Protractor</hi> upon C, and the Diameter upon B C, and against 270 <hi>deg.</hi> make a mark, through which, and C, draw the line C D, containing 5 Chains 85 Links.</p>
+               <p>Fourthly, Lay the Centre of the <hi>Protractor</hi> upon D, and the Diameter upon C D, making a mark against 263 <hi>deg.</hi> through which, and the point D, draw the line D E, to contain 7 Chains.</p>
+               <p>Lastly, Lay the Centre of
+<pb n="62" facs="tcp:60183:36"/> the <hi>Protractor</hi> upon E, and its Diameter upon D E, and against 220 <hi>deg.</hi> make a mark, through which, and the point E, draw a right line E F, which will cut your line A F in F; so have you upon your velem or paper, the true figure of your field, A B C D E F.</p>
+               <p>
+                  <hi>In all the Work of these two last</hi> Propositions, <hi>we have wrought by the exterior or outward Angles: If any have a desire to work by the interior or inward Angles, it is but taking the exterior Angle from</hi> 360 degrees, <hi>and the interior Angle will remain. So the Angle at A being</hi> 360 degrees, <hi>that ta<g ref="char:EOLhyphen"/>ken from</hi> 360 degrees, <hi>leaves</hi> 60 degrees <hi>for the interior Angle at A. So B being</hi> 145 degrees, <hi>that
+<pb n="63" facs="tcp:60183:36"/> taken from</hi> 360, <hi>leaves</hi> 215 <hi>for the interior Angle.</hi>
+               </p>
+            </div>
+            <div n="7" type="proposition">
+               <head>
+                  <hi>PROP. VII.</hi> The Plat of a Field being laid upon paper, and the Scale by which it was laid down known, to find how much the said Field con<g ref="char:EOLhyphen"/>taineth in Acres, Roods, and Perches.</head>
+               <p>THere are several wayes to effect this; but I shall here deliver only one, which shall be general, and that which by all (or most) Surveyors is practiced.</p>
+               <p>Every irregular Plat or Fi<g ref="char:EOLhyphen"/>gure, before the quantity or
+<pb n="64" facs="tcp:60183:37"/> content of it can be found, must first be reduced into such Regular Figures, for the men<g ref="char:EOLhyphen"/>suration whereof there are cer<g ref="char:EOLhyphen"/>tain Rules: The most meet and convenient figures into which Irregular Plats may be reduced are Triangles and Quadrilate<g ref="char:EOLhyphen"/>rals, called Trapezias, which is done by drawing of lines from Angle to Angle crosse the Plat. And here Note, That of how many sides soever your Plat consisteth, into so many Trian<g ref="char:EOLhyphen"/>gles, wanting two, will the Plat be reduced, and no less, as the Figure VII denotes, where the Plat consisteth of 7 sides, and it is reduced into 5 Triangles.</p>
+               <div type="subsection">
+                  <pb n="65" facs="tcp:60183:37"/>
+                  <head>The manner of reducing the Plat into Triangles.</head>
+                  <p>
+                     <ref target="#A48356-FIG7">
+                        <label type="milestone">
+                           <seg type="milestoneunit">FIG. </seg>VII</label>
+                     </ref>
+                  </p>
+                  <p>LEt the figure A B C D E F G be a <hi>Plat</hi> which con<g ref="char:EOLhyphen"/>tains seven sides; to reduce which into Quadrilaterals and Triangles, do thus:</p>
+                  <p>First, Draw the line B F, so is part of the <hi>Plat</hi> reduced into the Quadrilateral A B F G.</p>
+                  <p>Secondly, Draw the line F D, so is another part of the <hi>Plat</hi> reduced into the Trapezia B C D F; and the other part of the <hi>Plat</hi> is comprehended in the Tri<g ref="char:EOLhyphen"/>angle F D E.</p>
+                  <p>Thus the whole Plat being reduced contains two Trapezias,
+<pb n="66" facs="tcp:60183:38"/>
+                     <hi>viz.</hi> K and L, and the Triangle M, in number five (for every Trapezia contains two Trian<g ref="char:EOLhyphen"/>gles) which are less by two than the number of sides.</p>
+               </div>
+               <div type="subsection">
+                  <head>To cast up the Quantity or Content of the <hi>Plat.</hi>
+                  </head>
+                  <p>First begin with the Triangle M, whose base, F B, is 13.75. that is 13 Chains 75 Links, and his perpendicular E Q 7 Chains 12 Links.</p>
+                  <p>Now the Quantity, Area, or Content of every Triangle, is found, By multiplying the length of the base by half the length of the perpendicular.</p>
+                  <p>So here the base 13.75. and the perpendicular 7.12. the half whereof is 3.56. if you mul<g ref="char:EOLhyphen"/>tiply
+<pb n="67" facs="tcp:60183:38"/> 13.75. by 3.56. (as if they were whole numbers, though in
+<table>
+                        <row>
+                           <cell>13.75</cell>
+                        </row>
+                        <row>
+                           <cell>3.56</cell>
+                        </row>
+                        <row>
+                           <cell>8250</cell>
+                        </row>
+                        <row>
+                           <cell>6875</cell>
+                        </row>
+                        <row>
+                           <cell>4125</cell>
+                        </row>
+                        <row>
+                           <cell role="total">4.89500</cell>
+                        </row>
+                     </table> reality the 75 and 56 are Fractions) the product will be 4.89500, and that is the Quantity of the Triangle F D E.</p>
+                  <p>Secondly, For the Trapezia or Quadrilateral L, in which Trapezia you may see that the line C F is a common base to the two Triangles B F C, and C D F, for the perpendiculars B P, and D O, of both Triangles, fall u<g ref="char:EOLhyphen"/>pon it.</p>
+                  <p>Now the Quantity of any Trapezia is found, <hi>By multiplying the common base</hi> (here F C) <hi>by half the Sum of the two perpen<g ref="char:EOLhyphen"/>lars
+<pb n="68" facs="tcp:60183:39"/> which fall upon it</hi> (here B P, and D O.)</p>
+                  <p>So in this Tra<g ref="char:EOLhyphen"/>pezia,
+<table>
+                        <row>
+                           <cell>14.90</cell>
+                        </row>
+                        <row>
+                           <cell>6.90</cell>
+                        </row>
+                        <row>
+                           <cell>134100</cell>
+                        </row>
+                        <row>
+                           <cell>8940</cell>
+                        </row>
+                        <row>
+                           <cell role="total">10.28100</cell>
+                        </row>
+                     </table> the com<g ref="char:EOLhyphen"/>mon base C F, is 14 Cha. 90 Lin. and the sum of the two perpen<g ref="char:EOLhyphen"/>diculars B P, and D O, is 13 Chains 80 Links, the half whereof, is 6.90. If you multiply 14.90. by 6.90. the product will be 10.28100.</p>
+                  <p>Thirdly, For the Trapezia K, multiply 12.66. (the length of the
+<table>
+                        <row>
+                           <cell>12.66</cell>
+                        </row>
+                        <row>
+                           <cell>4.55</cell>
+                        </row>
+                        <row>
+                           <cell>6330</cell>
+                        </row>
+                        <row>
+                           <cell>6330</cell>
+                        </row>
+                        <row>
+                           <cell>5064</cell>
+                        </row>
+                        <row>
+                           <cell role="total">5.76030</cell>
+                        </row>
+                     </table> base B G) by 4.55 half the sum of the two perpendiculars A H and F R, the product of that multiplication will
+<pb n="69" facs="tcp:60183:39"/> be 5.76030, which is the Quan<g ref="char:EOLhyphen"/>tity, Area, or Content of the Trapezia K.</p>
+                  <p>Thus have you the Content of the two Trapezias and the Triangle. Now,</p>
+               </div>
+               <div type="subsection">
+                  <head>To find the Quantity of the whole Field, in <hi>Acres, Roods,</hi> and <hi>Perches.</hi>
+                  </head>
+                  <p>Add the products of the seve<g ref="char:EOLhyphen"/>ral multiplications together, the sum of them is the whole Quan<g ref="char:EOLhyphen"/>tity. So
+<table>
+                        <row>
+                           <cell rows="3">The
+<list>
+                                 <item>Triangle M</item>
+                                 <item>Trapezia K</item>
+                                 <item>Trapezia L</item>
+                              </list> contai<g ref="char:EOLhyphen"/>ning</cell>
+                           <cell>4.89500</cell>
+                        </row>
+                        <row>
+                           <cell>5.76030</cell>
+                        </row>
+                        <row>
+                           <cell>10.28100</cell>
+                        </row>
+                        <row>
+                           <cell>Their Sum is—</cell>
+                           <cell role="total">20.93630</cell>
+                        </row>
+                     </table>
+                     <pb n="70" facs="tcp:60183:40"/> Which is 20 complete or entire Acres, and 93630/100000 parts of an A<g ref="char:EOLhyphen"/>cre; and to know how much that is, multiply 93630 by 4 (because 4 Roods make an Acre) the product is 3 com<g ref="char:EOLhyphen"/>plete,
+<table>
+                        <row>
+                           <cell>93630</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                        </row>
+                        <row>
+                           <cell role="total">3.74520</cell>
+                        </row>
+                     </table> and 74520/100000 parts of a Rood; and to know how much that is, multiply 74520 by 40 (be<g ref="char:EOLhyphen"/>cause 40 Perches are
+<table>
+                        <row>
+                           <cell>74520</cell>
+                        </row>
+                        <row>
+                           <cell>40</cell>
+                        </row>
+                        <row>
+                           <cell role="total">29.80800</cell>
+                        </row>
+                     </table> contained in one Rood) the product will be 29.80800, which is 29 complete Perches, and 80800/100000 parts of a Perch, which is inconsiderable, for 160 whole Perches make but one Acre.</p>
+                  <p>Thus have you the Area, Quantity, or Content of this Field cast up, and you find it
+<pb n="71" facs="tcp:60183:40"/> to contain 20 Acres, 3 Roods and 29 Perches. And in this manner may you cast up the quantity of any Irregular Plat whatsoever, remembring that in all your Multiplications you cut off 5 figures towards your right hand with a prick of your pen, as in this Work I have done all along.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="illustration">
+            <pb facs="tcp:60183:41"/>
+            <p>
+               <figure>
+                  <figDesc>Foldout with diagrams</figDesc>
+                  <figure>
+                     <head>
+                        <hi>Fig.</hi> I.</head>
+                  </figure>
+                  <figure>
+                     <head>
+                        <hi>Fig.</hi> II.</head>
+                  </figure>
+                  <figure>
+                     <head>
+                        <hi>Fig.</hi> III</head>
+                  </figure>
+                  <figure>
+                     <head>
+                        <hi>Fig:</hi> IV</head>
+                  </figure>
+                  <figure>
+                     <head>
+                        <hi>Fig.</hi> V.</head>
+                  </figure>
+                  <figure>
+                     <head>
+                        <hi>Fig.</hi> VI.</head>
+                  </figure>
+                  <figure>
+                     <head>
+                        <hi>Fig.</hi> VII.</head>
+                  </figure>
+                  <head>Pla<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e this at the end of the Booke, soe that it may lye out when the Booke is shut.</head>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
